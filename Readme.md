@@ -1,4 +1,4 @@
-![img](file:///C:/Users/ASUS/AppData/Local/Packages/oice_16_974fa576_32c1d314_391/AC/Temp/msohtmlclip1/01/clip_image002.jpg)
+d:\Github\Hatsune_Miku_player_with_Qt6\doc\Preview.jpg
 
 Hatsune_Miku_Music功能：
 
@@ -10,4 +10,4 @@ ui及美化方面：
 
 MainWindow进行无边框化处理并设置背景，图标圆角处理及透明背景，交互栏变色，光标悬浮按下反馈，播放列表透明，播放列表平滑出入动画，增加任务栏程序图标，进度条美化
 
-![img](file:///C:/Users/ASUS/AppData/Local/Packages/oice_16_974fa576_32c1d314_391/AC/Temp/msohtmlclip1/01/clip_image002.jpg)![img](file:///C:/Users/ASUS/AppData/Local/Packages/oice_16_974fa576_32c1d314_391/AC/Temp/msohtmlclip1/01/clip_image004.jpg)
+d:\Github\Hatsune_Miku_player_with_Qt6\doc\UI.jpg
