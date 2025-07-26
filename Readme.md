@@ -1,4 +1,4 @@
-d:\Github\Hatsune_Miku_player_with_Qt6\doc\Preview.jpg
+[d:\Github\Hatsune_Miku_player_with_Qt6\doc\Preview.jpg](https://github.com/dire-just-boom/Hatsune_Miku_player_with_Qt6/blob/main/doc/Preview.jpg)
 
 Hatsune_Miku_Music功能：
 
