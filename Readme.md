@@ -1,4 +1,4 @@
-[d:\Github\Hatsune_Miku_player_with_Qt6\doc\Preview.jpg](https://github.com/dire-just-boom/Hatsune_Miku_player_with_Qt6/blob/main/doc/Preview.jpg)
+![image](https://github.com/dire-just-boom/Hatsune_Miku_player_with_Qt6/blob/main/doc/Preview.jpg)
 
 Hatsune_Miku_Music功能：
 
@@ -10,4 +10,4 @@ ui及美化方面：
 
 MainWindow进行无边框化处理并设置背景，图标圆角处理及透明背景，交互栏变色，光标悬浮按下反馈，播放列表透明，播放列表平滑出入动画，增加任务栏程序图标，进度条美化
 
-d:\Github\Hatsune_Miku_player_with_Qt6\doc\UI.jpg
+![image](https://github.com/dire-just-boom/Hatsune_Miku_player_with_Qt6/blob/main/doc/UI.jpg)
