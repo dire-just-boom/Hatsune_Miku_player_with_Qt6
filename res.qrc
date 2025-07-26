@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Background/39Miku.jpg</file>
+        <file>Background/Miku_back.jpg</file>
+        <file>Background/Rin.jpg</file>
+        <file>Icon/Addition.svg</file>
+        <file>Icon/local_music.svg</file>
+        <file>Icon/Mute.svg</file>
+        <file>Icon/Pause.svg</file>
+        <file>Icon/Play.svg</file>
+        <file>Icon/play_loop.svg</file>
+        <file>Icon/play_only.svg</file>
+        <file>Icon/play_random.svg</file>
+        <file>Icon/playlist.svg</file>
+        <file>Icon/seach.svg</file>
+        <file>Icon/song_next.svg</file>
+        <file>Icon/song_prev.svg</file>
+        <file>Icon/Volumn.svg</file>
+        <file>Icon/Min.svg</file>
+        <file>Icon/Add.svg</file>
+        <file>Icon/Close.svg</file>
+        <file>Icon/Cover.svg</file>
+        <file>Icon/SliderPoint.svg</file>
+        <file>Icon/Load.svg</file>
+        <file>Icon/miku.svg</file>
+        <file>Background/Pj_Sekai_app.png</file>
+    </qresource>
+</RCC>
